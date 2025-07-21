@@ -5,5 +5,5 @@ This repo is specifically designed to contain the documentation of my Cybersecur
 # Project 1: Virtual Cybersecurity Lab Setup 
 
 
-!(3rd-nmap-capture.png) 
+![bhh](Actual Firewall rules.png)
 
