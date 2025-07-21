@@ -4,5 +4,6 @@ This repo is specifically designed to contain the documentation of my Cybersecur
 
 # Project 1: Virtual Cybersecurity Lab Setup 
 
-![just testing] (windows on same network as kali.png) 
+! [just testing] (windows on same network as kali.png) 
+! (3rd-nmap-capture.png)
 
