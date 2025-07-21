@@ -5,6 +5,5 @@ This repo is specifically designed to contain the documentation of my Cybersecur
 # Project 1: Virtual Cybersecurity Lab Setup 
 
 
-! [fgh](https://i.imgur.com/y4qajdv.jpeg)
 ! [jhdh](3rd-nmap-capture.png) 
 
