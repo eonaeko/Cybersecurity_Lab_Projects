@@ -9,7 +9,7 @@ This repo is specifically designed to contain the documentation of my Cybersecur
 ### Tools Used for this virtual cybersecurity lab setup
 
 | Operations    |  Tools    |
----------------------------------
+|----------------|----------------- |
 | Hypervisor    | VirtualBox  |
 | Operating Systems:|  Kali Linux, Windows |
 | Service Enumeration |NMAP, Shared Folders |
