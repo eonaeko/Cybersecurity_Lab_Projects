@@ -71,7 +71,7 @@ I further scanned for open ports and vulnerable services through NMAP
 <img width="773" height="272" alt="emmanuel" src="https://github.com/user-attachments/assets/647abbcd-9dd9-4399-a584-fcc7acc6d9d5" />
 
 ### Conclusion And Major Takeaways
-This lab helped me get comfortable with setting up my Virtual Machines, understanding how virtualization was carried out, and I also got comfortable with using the Linux OS through the terminal, as I used a handful of terminal commands. I also got some experience with working a firewall, NMAP, and Vulnerability Assessment. It equipped me with the soft skills of actively researching.
+This lab helped me get comfortable with setting up my Virtual Machines, which is important for other labs I will work on, understanding how virtualization was carried out, and I also got comfortable with using the Linux OS through the terminal, as I used a handful of terminal commands. I also got some experience with working a firewall, NMAP, and Vulnerability Assessment. It equipped me with the soft skills of actively researching.
 
  [View my report](https://drive.google.com/file/d/1N6Gfk3DX6lGsq99e39k0ZDkBkv5zOVbD/view?usp=drive_link)
 
