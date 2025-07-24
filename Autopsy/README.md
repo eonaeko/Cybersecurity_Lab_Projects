@@ -3,7 +3,9 @@
 **Objective:** To analyse a provided Android forensic image and compile a formal digital investigation report 
 **Tasks:**
 - Conduct forensic analysis of the Android image:
+
 **Extract and document:**
+
 - SMS messages, call logs, contact lists
 - Application usage history
 - Files, images, browser history, crypto wallets, deleted content
