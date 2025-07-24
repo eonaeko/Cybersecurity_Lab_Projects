@@ -73,8 +73,26 @@ To simulate the functionality of the firewall, I decided to set up some rules in
   
 2. **Blocking the Kali Linux host from accessing the altschoolafica.com website**
    
-  - *Kali is unable to access the altschoolafica page*
+ - *Kali is unable to access the altschoolafica page*
     <img width="1366" height="722" alt="altschoolblock" src="https://github.com/user-attachments/assets/43ac2051-ac7e-4a67-987f-1f5a3a299460" />
+ - *Other websites being able to be accessed by Kali*
+   <img width="1365" height="720" alt="other websites allowed" src="https://github.com/user-attachments/assets/456d3207-2f10-489b-9015-5d8f0e536170" />
+3.  **Blocking the entire LAN network from being able to ping the Google DNS server**
+   <img width="1363" height="722" alt="windows ping to 8 8 8 8 fail" src="https://github.com/user-attachments/assets/da5b8052-5733-4abe-b50a-ba903f69d123" />
+   <img width="1365" height="724" alt="kali failed to 8 8 8 8" src="https://github.com/user-attachments/assets/6c761759-ac0e-47b2-b13b-dc8ea6e36dc0" />
+
+### Firewall Logs
+
+<img width="1363" height="719" alt="firewall logs" src="https://github.com/user-attachments/assets/ca5d68c6-0da0-4da4-8931-e4dc143b1e93" />
+This snippet  shows the firewall logs captured on the firewall, giving a view of the functionality of the firewall rules set up
+
+## Conclusion / Lessons Learnt 
+I explored the capabilities and functionality of the firewall in blocking and filtering traffic, which opened me up to an understanding of traffic engineering and security controls, and how important it is in network security and ensuring that hosts are safe on the network. Although not captured here, I learnt  about the use of pfBlockerNG to easily block certain websites and domain.
+
+
+
+
+
 
   
  
