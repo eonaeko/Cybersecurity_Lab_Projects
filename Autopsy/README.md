@@ -15,7 +15,7 @@ This is the detailed step followed to  ensure proper evidence analysis
 - **Integrity Check for Android Image:** The Android image was hashed and compared to verify that the image was correctly handled and no changes were made.
 - **Case Initialisation in Autopsy:** The case was launched and initialized on Autopsy by documenting the case name, case number, and the  Examiner was enabled for the structured storage of all analysis, artefacts, and logs generated during the case investigation
 - **Android Image Setup:** The Android image was extracted using 7-Zip and then properly imported as a case study file on Autopsy, and it was ensured that it was properly imported to ensure proper  configuration and to preserve the integrity of the findings of the investigation
-- **Forensic Examination:** The case was systematically investigated to reveal various findings that were adopted as evidence for the allegation of scam
+- **Forensic Examination:** The case was systematically investigated to reveal various findings that were adopted as evidence for the allegation of a scam
 
 ### Overview of analysis
 1. File System Overview
@@ -66,7 +66,8 @@ Several pieces of evidence and findings were gathered and documented to prove th
 
 ## SUMMARY 
 This lab was carried out to show the best ethnics by carefully doing a forensic examination of the Android Image and significantly recovering incriminating digital evidence that can be legally admissible in a court of law,  as it ensured integrity and reliable findings 
-Following a thorough forensic examination of the extracted Android device image, we successfully recovered significant digital evidence that is both incriminating and a
+Following a thorough forensic examination of the extracted Android device image, we successfully recovered significant digital evidence that is both incriminating and suspicious.
+
  [View Full Report Here](https://drive.google.com/drive/folders/1_elAsBZ7zahLFZ6mzkah2WCuKSsFFgi0)
 ### Lessons Learnt 
 
