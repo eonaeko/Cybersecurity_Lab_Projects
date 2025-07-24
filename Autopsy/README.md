@@ -71,7 +71,7 @@ Following a thorough forensic examination of the extracted Android device image,
  [View Full Report Here](https://drive.google.com/drive/folders/1_elAsBZ7zahLFZ6mzkah2WCuKSsFFgi0)
 ### Lessons Learnt 
 
-This lab allowed me to explore the use of the tool "***Autopsy*** and act as a digital forensic investigator,  understanding the principles of **Chain of Custody**, **Evidence Integrity and Preservation**, **Data Recovery**, and **Forensic Analysis**, and develop the apt skill of **Report Writing**, **Evidence Management** 
+This lab allowed me to explore the use of the tool ***"Autopsy"*** and act as a digital forensic investigator,  understanding the principles of **Chain of Custody**, **Evidence Integrity and Preservation**, **Data Recovery**, and **Forensic Analysis**, and develop the apt skill of **Report Writing**, **Evidence Management** 
 
 
 
