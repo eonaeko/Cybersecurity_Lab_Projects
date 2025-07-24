@@ -65,8 +65,8 @@ Several pieces of evidence and findings were gathered and documented to prove th
 
 
 ## SUMMARY 
-This lab was carried out to show the best ethnics by carefully doing forensic examination of the Android Image and significantly recovering incriminating digital evidence that can be legally admissible in a court of law,  as it ensured integrity and reliable findings 
-Following a thorough forensic examination of the extracted Android device image, we successfully recovered significant digital evidence that is both incriminating and
+This lab was carried out to show the best ethnics by carefully doing a forensic examination of the Android Image and significantly recovering incriminating digital evidence that can be legally admissible in a court of law,  as it ensured integrity and reliable findings 
+Following a thorough forensic examination of the extracted Android device image, we successfully recovered significant digital evidence that is both incriminating and a
  [View Full Report Here](https://drive.google.com/drive/folders/1_elAsBZ7zahLFZ6mzkah2WCuKSsFFgi0)
 ### Lessons Learnt 
 
