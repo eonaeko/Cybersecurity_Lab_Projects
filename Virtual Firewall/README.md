@@ -36,6 +36,7 @@ This snippet above shows the installation process of the pfSense virtual applian
 
 ### Installation showing the configuration of the LAN and WAN interfaces
 <img width="711" height="472" alt="Wan and lan" src="https://github.com/user-attachments/assets/ac33fd5b-d90e-45d0-891a-23cf00a17213" />
+
 ### pfSense Start up Interface login
 <img width="1366" height="701" alt="PFsense interface" src="https://github.com/user-attachments/assets/042677da-f39e-4d80-8dcf-d359d82bab65" />
 This snippet shows the start-up page on the GUI of pfSense when it was logged in on the
@@ -46,8 +47,10 @@ which acted as the default gateway for both VMs in the virtual environment, and 
 <img width="1364" height="663" alt="pfsense hostname and DNS change" src="https://github.com/user-attachments/assets/1afb1c36-9683-48f8-8905-c8a4d99bc017" />
 I changed the hostname and primary DNS server on the pfSense appliance
 <img width="1163" height="228" alt="ipv4 static" src="https://github.com/user-attachments/assets/22ef9a32-fc2e-4793-9cd4-8147839c296f" />
+
  **Snippnet shows the static IPv4 configuration of the firewall**
 <img width="1163" height="228" alt="ipv4 static" src="https://github.com/user-attachments/assets/1d55e7ad-20b3-4dcd-a08c-5723d192774b" />
+
  **Snippet shows the configuration of the time server**
  <img width="1358" height="663" alt="pfsense ntp capture" src="https://github.com/user-attachments/assets/38d9ebe3-ed53-4cd7-a61e-3b9d70a2837f" />
 
@@ -61,11 +64,15 @@ Snippnets shows the interface assignment on the pfSense, showing its WAN and LAN
 <img width="1366" height="722" alt="Final update on firewall" src="https://github.com/user-attachments/assets/7c07b509-29bc-40dd-bf0d-c9263a64950c" />
 To simulate the functionality of the firewall, I decided to set up some rules in the Firewall section of the GUI and configure the firewall rules on the LAN interface, which stated the following:
 1. **Blocking the Whole 192.168.1.0/24 network from accessing the YouTube website**
+   
 - *Before the configuration of Firewall rules, hosts were able to access the YouTube website*
 <img width="1357" height="718" alt="youtube_DSA_Cybersecurity" src="https://github.com/user-attachments/assets/5172a7d5-05f4-489d-bda8-15a6de54fd4a" />
+
 - *After configuring the Firewall rules applied, the hosts were unable to access the YouTube website*
   <img width="1365" height="731" alt="youtube blocked" src="https://github.com/user-attachments/assets/3808c187-ae47-4a1b-910a-c958d4bc87ab" />
+  
 2. **Blocking the Kali Linux host from accessing the altschoolafica.com website**
+   
   - *Kali is unable to access the altschoolafica page*
     <img width="1366" height="722" alt="altschoolblock" src="https://github.com/user-attachments/assets/43ac2051-ac7e-4a67-987f-1f5a3a299460" />
 
