@@ -41,7 +41,7 @@ This snippet above shows the installation process of the pfSense virtual applian
 <img width="1366" height="701" alt="PFsense interface" src="https://github.com/user-attachments/assets/042677da-f39e-4d80-8dcf-d359d82bab65" />
 This snippet shows the start-up page on the GUI of pfSense when it was logged in on the
 Windows browser through the IP address:**192.168.1.1**, which is the IP address of the pfSense
-which acted as the default gateway for both VMs in the virtual environment, and with a default login with username: **admin** and password: **pfsense**, I was able to access the pfSense to access the GUI and make some default configurations that are referenced below
+which acted as the default gateway for both VMs in the virtual environment, and with a default login with ***username: admin*** and ***password: pfsense***, I was able to access the pfSense to access the GUI and make some default configurations that are referenced below
 
 <img width="1366" height="704" alt="pfsense dashboard " src="https://github.com/user-attachments/assets/b036f02f-0bb3-4aeb-9dc9-d350809cf0ce" />
 <img width="1364" height="663" alt="pfsense hostname and DNS change" src="https://github.com/user-attachments/assets/1afb1c36-9683-48f8-8905-c8a4d99bc017" />
@@ -63,6 +63,7 @@ Snippnets shows the interface assignment on the pfSense, showing its WAN and LAN
 ### Firewall Rules to block some websites and operations
 <img width="1366" height="722" alt="Final update on firewall" src="https://github.com/user-attachments/assets/7c07b509-29bc-40dd-bf0d-c9263a64950c" />
 To simulate the functionality of the firewall, I decided to set up some rules in the Firewall section of the GUI and configure the firewall rules on the LAN interface, which stated the following:
+
 1. **Blocking the Whole 192.168.1.0/24 network from accessing the YouTube website**
    
 - *Before the configuration of Firewall rules, hosts were able to access the YouTube website*
@@ -87,7 +88,7 @@ To simulate the functionality of the firewall, I decided to set up some rules in
 This snippet  shows the firewall logs captured on the firewall, giving a view of the functionality of the firewall rules set up
 
 ## Conclusion / Lessons Learnt 
-I explored the capabilities and functionality of the firewall in blocking and filtering traffic, which opened me up to an understanding of traffic engineering and security controls, and how important it is in network security and ensuring that hosts are safe on the network. Although not captured here, I learnt  about the use of pfBlockerNG to easily block certain websites and domain.
+I explored the capabilities and functionality of the firewall in blocking and filtering traffic, which opened me up to an understanding of traffic engineering and security controls, and how important it is in network security and ensuring that hosts are safe on the network. Although not captured here, I learnt  about the use of pfBlockerNG to easily block certain websites and domain. [View full Report](https://drive.google.com/drive/folders/1_elAsBZ7zahLFZ6mzkah2WCuKSsFFgi0)
 
 
 
