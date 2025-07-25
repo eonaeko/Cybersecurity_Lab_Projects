@@ -40,8 +40,8 @@ This snippet above shows the installation process of the pfSense virtual applian
 ### pfSense Start up Interface login
 <img width="1366" height="701" alt="PFsense interface" src="https://github.com/user-attachments/assets/042677da-f39e-4d80-8dcf-d359d82bab65" />
 This snippet shows the start-up page on the GUI of pfSense when it was logged in on the
-Windows browser through the IP address:**192.168.1.1**, which is the IP address of the pfSense
-which acted as the default gateway for both VMs in the virtual environment, and with a default login with ***username: admin*** and ***password: pfsense***, I was able to access the pfSense to access the GUI and make some default configurations that are referenced below
+Windows browser through the IP address:192.168.1.1, which is the IP address of the pfSense
+which acted as the default gateway for both VMs in the virtual environment, and with a default login with username: admin and password: pfsense, I was able to access the pfSense to access the GUI and make some default configurations that are referenced below
 
 <img width="1366" height="704" alt="pfsense dashboard " src="https://github.com/user-attachments/assets/b036f02f-0bb3-4aeb-9dc9-d350809cf0ce" />
 <img width="1364" height="663" alt="pfsense hostname and DNS change" src="https://github.com/user-attachments/assets/1afb1c36-9683-48f8-8905-c8a4d99bc017" />
