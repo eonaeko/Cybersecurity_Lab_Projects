@@ -3,7 +3,7 @@
 
 **Project Description:** This project contains two traffic captures, one captured with Wireshark and the other with tcpdump. These captures were saved as packet capture (pcap) files and later used for protocol analysis using Wireshark filters and tcpdump capture filters, as further documented in this report.
 
-** Tools Used:**
+**Tools Used:**
 
 * Wireshark  
 * Tcpdump
